@@ -11,17 +11,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-SECURITY_RESEARCHER-05060a?style=for-the-badge&labelColor=05060a&color=22e5ff" alt="role"/>
-  <img src="https://img.shields.io/badge/FOCUS-SOC_%C2%B7_BUG_BOUNTY_%C2%B7_OSINT-05060a?style=for-the-badge&labelColor=05060a&color=ff2bd6" alt="focus"/>
-  <img src="https://img.shields.io/badge/TEAM-RED_%2B_BLUE-05060a?style=for-the-badge&labelColor=05060a&color=8b5cff" alt="team"/>
+  <img src="https://img.shields.io/badge/ROLE-SECURITY_RESEARCHER-05080f?style=for-the-badge&labelColor=05080f&color=00d4ff" alt="role"/>
+  <img src="https://img.shields.io/badge/FOCUS-SOC_%C2%B7_BUG_BOUNTY_%C2%B7_OSINT-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="focus"/>
+  <img src="https://img.shields.io/badge/TEAM-RED_%2B_BLUE-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="team"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BANKING_SOC-5_YEARS-05060a?style=for-the-badge&labelColor=0a0e17&color=22e5ff" alt="SOC"/>
-  <img src="https://img.shields.io/badge/BUG_BOUNTY-Intigriti_%2B_Bugcrowd-05060a?style=for-the-badge&labelColor=0a0e17&color=ff2bd6" alt="bounty"/>
-  <img src="https://img.shields.io/badge/CERTS-20%2B-05060a?style=for-the-badge&labelColor=0a0e17&color=8b5cff" alt="certs"/>
-  <img src="https://img.shields.io/badge/TOOLS-5_PRODUCTS-05060a?style=for-the-badge&labelColor=0a0e17&color=ffbf3f" alt="tools"/>
-  <img src="https://img.shields.io/badge/REPOS-25_PUBLIC-05060a?style=for-the-badge&labelColor=0a0e17&color=2bff88" alt="repos"/>
+  <img src="https://img.shields.io/badge/BANKING_SOC-5_YEARS-05080f?style=for-the-badge&labelColor=070c16&color=00d4ff" alt="SOC"/>
+  <img src="https://img.shields.io/badge/BUG_BOUNTY-Intigriti_%2B_Bugcrowd-05080f?style=for-the-badge&labelColor=070c16&color=00ff9c" alt="bounty"/>
+  <img src="https://img.shields.io/badge/CERTS-20%2B-05080f?style=for-the-badge&labelColor=070c16&color=00c47a" alt="certs"/>
+  <img src="https://img.shields.io/badge/TOOLS-5_PRODUCTS-05080f?style=for-the-badge&labelColor=070c16&color=00ff9c" alt="tools"/>
+  <img src="https://img.shields.io/badge/REPOS-25_PUBLIC-05080f?style=for-the-badge&labelColor=070c16&color=00ff9c" alt="repos"/>
 </p>
 
 ---
@@ -38,10 +38,10 @@ Kendal, Central Java, ID — Indonesian · English
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/●-SYSTEM_ONLINE-05060a?style=flat-square&labelColor=05060a&color=2bff88" alt="online"/>
-  <img src="https://img.shields.io/badge/base-Kendal_ID-05060a?style=flat-square&labelColor=05060a&color=38516b" alt="base"/>
-  <img src="https://img.shields.io/badge/SOC-24x7_Banking-05060a?style=flat-square&labelColor=05060a&color=22e5ff" alt="soc"/>
-  <img src="https://img.shields.io/badge/status-security_first-05060a?style=flat-square&labelColor=05060a&color=ff2bd6" alt="motto"/>
+  <img src="https://img.shields.io/badge/●-SYSTEM_ONLINE-05080f?style=flat-square&labelColor=05080f&color=00ff9c" alt="online"/>
+  <img src="https://img.shields.io/badge/base-Kendal_ID-05080f?style=flat-square&labelColor=05080f&color=51637a" alt="base"/>
+  <img src="https://img.shields.io/badge/SOC-24x7_Banking-05080f?style=flat-square&labelColor=05080f&color=00d4ff" alt="soc"/>
+  <img src="https://img.shields.io/badge/status-security_first-05080f?style=flat-square&labelColor=05080f&color=00ff9c" alt="motto"/>
 </p>
 
 ---
@@ -51,12 +51,12 @@ Kendal, Central Java, ID — Indonesian · English
 > The hardware. SOC shifts first, bounty findings second, shipped tooling third.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🛡️_5Y-Banking_SOC_Charts-05060a?style=for-the-badge&labelColor=05060a&color=ffbf3f" alt="SOC"/><br/>
-  <img src="https://img.shields.io/badge/🎯_2X-Bug_Bounty_Platforms-05060a?style=for-the-badge&labelColor=05060a&color=ffbf3f" alt="bounty platforms"/><br/>
-  <img src="https://img.shields.io/badge/🧰_4X-Offensive_Products_Shipped-05060a?style=for-the-badge&labelColor=05060a&color=ffbf3f" alt="products"/><br/>
-  <img src="https://img.shields.io/badge/📚_147-Pentest_Skills_Codified-05060a?style=for-the-badge&labelColor=05060a&color=c0cdd8" alt="skills"/>
-  <img src="https://img.shields.io/badge/🔍_50-SOC_Alerts_Triaged_Per_Shift-05060a?style=for-the-badge&labelColor=05060a&color=cd7f32" alt="alerts"/>
-  <img src="https://img.shields.io/badge/⚡_SUB_30MIN-Regression_Gate-05060a?style=for-the-badge&labelColor=05060a&color=8b5cff" alt="gate"/>
+  <img src="https://img.shields.io/badge/🛡️_5Y-Banking_SOC_Charts-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="SOC"/><br/>
+  <img src="https://img.shields.io/badge/🎯_2X-Bug_Bounty_Platforms-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="bounty platforms"/><br/>
+  <img src="https://img.shields.io/badge/🧰_4X-Offensive_Products_Shipped-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="products"/><br/>
+  <img src="https://img.shields.io/badge/📚_147-Pentest_Skills_Codified-05080f?style=for-the-badge&labelColor=05080f&color=00d4ff" alt="skills"/>
+  <img src="https://img.shields.io/badge/🔍_50-SOC_Alerts_Triaged_Per_Shift-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="alerts"/>
+  <img src="https://img.shields.io/badge/⚡_SUB_30MIN-Regression_Gate-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="gate"/>
 </p>
 
 | Role | Org | Period | Detail |
@@ -76,33 +76,33 @@ Kendal, Central Java, ID — Indonesian · English
 **Languages / Engineering Stack**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-05060a?style=for-the-badge&logo=python&logoColor=22e5ff&labelColor=05060a" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-05060a?style=for-the-badge&logo=php&logoColor=8b5cff&labelColor=05060a" alt="PHP"/>
-  <img src="https://img.shields.io/badge/TypeScript-05060a?style=for-the-badge&logo=typescript&logoColor=22e5ff&labelColor=05060a" alt="TS"/>
-  <img src="https://img.shields.io/badge/JavaScript-05060a?style=for-the-badge&logo=javascript&logoColor=ffbf3f&labelColor=05060a" alt="JS"/>
-  <img src="https://img.shields.io/badge/Node.js-05060a?style=for-the-badge&logo=nodedotjs&logoColor=2bff88&labelColor=05060a" alt="Node"/>
-  <img src="https://img.shields.io/badge/React-05060a?style=for-the-badge&logo=react&logoColor=22e5ff&labelColor=05060a" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-05060a?style=for-the-badge&logo=nextdotjs&logoColor=dff7ff&labelColor=05060a" alt="Next"/>
-  <img src="https://img.shields.io/badge/Prisma-05060a?style=for-the-badge&logo=prisma&logoColor=dff7ff&labelColor=05060a" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-05060a?style=for-the-badge&logo=postgresql&logoColor=22e5ff&labelColor=05060a" alt="PG"/>
-  <img src="https://img.shields.io/badge/Java-05060a?style=for-the-badge&logo=openjdk&logoColor=ff6b6b&labelColor=05060a" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-05060a?style=for-the-badge&logo=cplusplus&logoColor=8b5cff&labelColor=05060a" alt="cpp"/>
-  <img src="https://img.shields.io/badge/Shell_CLI-05060a?style=for-the-badge&logo=gnubash&logoColor=2bff88&labelColor=05060a" alt="shell"/>
+  <img src="https://img.shields.io/badge/Python-05080f?style=for-the-badge&logo=python&logoColor=00d4ff&labelColor=05080f" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-05080f?style=for-the-badge&logo=php&logoColor=00c47a&labelColor=05080f" alt="PHP"/>
+  <img src="https://img.shields.io/badge/TypeScript-05080f?style=for-the-badge&logo=typescript&logoColor=00d4ff&labelColor=05080f" alt="TS"/>
+  <img src="https://img.shields.io/badge/JavaScript-05080f?style=for-the-badge&logo=javascript&logoColor=00ff9c&labelColor=05080f" alt="JS"/>
+  <img src="https://img.shields.io/badge/Node.js-05080f?style=for-the-badge&logo=nodedotjs&logoColor=00ff9c&labelColor=05080f" alt="Node"/>
+  <img src="https://img.shields.io/badge/React-05080f?style=for-the-badge&logo=react&logoColor=00d4ff&labelColor=05080f" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-05080f?style=for-the-badge&logo=nextdotjs&logoColor=e8eef7&labelColor=05080f" alt="Next"/>
+  <img src="https://img.shields.io/badge/Prisma-05080f?style=for-the-badge&logo=prisma&logoColor=e8eef7&labelColor=05080f" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-05080f?style=for-the-badge&logo=postgresql&logoColor=00d4ff&labelColor=05080f" alt="PG"/>
+  <img src="https://img.shields.io/badge/Java-05080f?style=for-the-badge&logo=openjdk&logoColor=00ff9c&labelColor=05080f" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-05080f?style=for-the-badge&logo=cplusplus&logoColor=00c47a&labelColor=05080f" alt="cpp"/>
+  <img src="https://img.shields.io/badge/Shell_CLI-05080f?style=for-the-badge&logo=gnubash&logoColor=00ff9c&labelColor=05080f" alt="shell"/>
 </p>
 
 **Tools & Frameworks**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-05060a?style=for-the-badge&labelColor=05060a&color=ff6b6b" alt="Burp"/>
-  <img src="https://img.shields.io/badge/Splunk-05060a?style=for-the-badge&labelColor=05060a&color=2bff88" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/Sentinel-05060a?style=for-the-badge&labelColor=05060a&color=22e5ff" alt="Sentinel"/>
-  <img src="https://img.shields.io/badge/Chronicle-05060a?style=for-the-badge&labelColor=05060a&color=8b5cff" alt="Chronicle"/>
-  <img src="https://img.shields.io/badge/Playwright-05060a?style=for-the-badge&labelColor=05060a&color=2bff88" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Selenium-05060a?style=for-the-badge&labelColor=05060a&color=22e5ff" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Docker-05060a?style=for-the-badge&logo=docker&logoColor=22e5ff&labelColor=05060a" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Jenkins-05060a?style=for-the-badge&labelColor=05060a&color=ffbf3f" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Terraform-05060a?style=for-the-badge&labelColor=05060a&color=8b5cff" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/SonarQube-05060a?style=for-the-badge&labelColor=05060a&color=22e5ff" alt="Sonar"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="Burp"/>
+  <img src="https://img.shields.io/badge/Splunk-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Sentinel-05080f?style=for-the-badge&labelColor=05080f&color=00d4ff" alt="Sentinel"/>
+  <img src="https://img.shields.io/badge/Chronicle-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="Chronicle"/>
+  <img src="https://img.shields.io/badge/Playwright-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Selenium-05080f?style=for-the-badge&labelColor=05080f&color=00d4ff" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Docker-05080f?style=for-the-badge&logo=docker&logoColor=00d4ff&labelColor=05080f" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Terraform-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/SonarQube-05080f?style=for-the-badge&labelColor=05080f&color=00d4ff" alt="Sonar"/>
 </p>
 
 **Discipline spec**
@@ -144,13 +144,13 @@ Kendal, Central Java, ID — Indonesian · English
 **Detection-as-code across Splunk / Sentinel / Chronicle** &nbsp; → &nbsp; [`DetectionEngineeringPortfolio`](https://github.com/aloc999/DetectionEngineeringPortfolio)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sigma-05060a?style=flat-square&labelColor=05060a&color=22e5ff" alt="Sigma"/>
-  <img src="https://img.shields.io/badge/KQL-05060a?style=flat-square&labelColor=05060a&color=22e5ff" alt="KQL"/>
-  <img src="https://img.shields.io/badge/SPL-05060a?style=flat-square&labelColor=05060a&color=22e5ff" alt="SPL"/>
-  <img src="https://img.shields.io/badge/YARA_L-05060a?style=flat-square&labelColor=05060a&color=22e5ff" alt="YARA"/>
-  <img src="https://img.shields.io/badge/MITRE_ATTCK-05060a?style=flat-square&labelColor=05060a&color=ff2bd6" alt="ATT&CK"/>
-  <img src="https://img.shields.io/badge/SOAR-05060a?style=flat-square&labelColor=05060a&color=8b5cff" alt="SOAR"/>
-  <img src="https://img.shields.io/badge/pytest_+_CI-05060a?style=flat-square&labelColor=05060a&color=2bff88" alt="CI"/>
+  <img src="https://img.shields.io/badge/Sigma-05080f?style=flat-square&labelColor=05080f&color=00d4ff" alt="Sigma"/>
+  <img src="https://img.shields.io/badge/KQL-05080f?style=flat-square&labelColor=05080f&color=00d4ff" alt="KQL"/>
+  <img src="https://img.shields.io/badge/SPL-05080f?style=flat-square&labelColor=05080f&color=00d4ff" alt="SPL"/>
+  <img src="https://img.shields.io/badge/YARA_L-05080f?style=flat-square&labelColor=05080f&color=00d4ff" alt="YARA"/>
+  <img src="https://img.shields.io/badge/MITRE_ATTCK-05080f?style=flat-square&labelColor=05080f&color=00ff9c" alt="ATT&CK"/>
+  <img src="https://img.shields.io/badge/SOAR-05080f?style=flat-square&labelColor=05080f&color=00c47a" alt="SOAR"/>
+  <img src="https://img.shields.io/badge/pytest_+_CI-05080f?style=flat-square&labelColor=05080f&color=00ff9c" alt="CI"/>
 </p>
 
 - 🧠 Sigma, KQL, SPL, YARA-L/YARA mapped to MITRE ATT&CK (endpoint, cloud, container, identity, network)
@@ -168,11 +168,11 @@ Kendal, Central Java, ID — Indonesian · English
 - 🐎 [**CavalryHive**](https://github.com/aloc999/CavalryHive) — autonomous web-assessment toolkit — self-learning profiles, adaptive payload mutation, zero-FP design
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SHIPPED-redgun-05060a?style=for-the-badge&labelColor=05060a&color=8b5cff" alt="redgun"/>
-  <img src="https://img.shields.io/badge/SHIPPED-Xploit47-05060a?style=for-the-badge&labelColor=05060a&color=22e5ff" alt="Xploit47"/>
-  <img src="https://img.shields.io/badge/SHIPPED-ZER0CODE-05060a?style=for-the-badge&labelColor=05060a&color=ff2bd6" alt="ZER0CODE"/>
-  <img src="https://img.shields.io/badge/SHIPPED-CODA-05060a?style=for-the-badge&labelColor=05060a&color=2bff88" alt="CODA"/>
-  <img src="https://img.shields.io/badge/SHIPPED-CavalryHive-05060a?style=for-the-badge&labelColor=05060a&color=ffbf3f" alt="CavalryHive"/>
+  <img src="https://img.shields.io/badge/SHIPPED-redgun-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="redgun"/>
+  <img src="https://img.shields.io/badge/SHIPPED-Xploit47-05080f?style=for-the-badge&labelColor=05080f&color=00d4ff" alt="Xploit47"/>
+  <img src="https://img.shields.io/badge/SHIPPED-ZER0CODE-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="ZER0CODE"/>
+  <img src="https://img.shields.io/badge/SHIPPED-CODA-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="CODA"/>
+  <img src="https://img.shields.io/badge/SHIPPED-CavalryHive-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="CavalryHive"/>
 </p>
 
 ---
@@ -181,24 +181,24 @@ Kendal, Central Java, ID — Indonesian · English
 
 > I don't only hunt — I build the machinery too.
 
-**🎯 redgun** &nbsp;<img src="https://img.shields.io/badge/cli_auditor-05060a?style=flat-square&labelColor=05060a&color=22e5ff" alt="cli"/> <img src="https://img.shields.io/badge/~120_modules-05060a?style=flat-square&labelColor=05060a&color=2bff88" alt="modules"/>
+**🎯 redgun** &nbsp;<img src="https://img.shields.io/badge/cli_auditor-05080f?style=flat-square&labelColor=05080f&color=00d4ff" alt="cli"/> <img src="https://img.shields.io/badge/~120_modules-05080f?style=flat-square&labelColor=05080f&color=00ff9c" alt="modules"/>
 
 CLI web auditor — black/white-box, ~120 modules, AI attack chains across web/API. Built for authorized bounty + pentest loops: recon → vuln ID → exploit validation with PoC evidence.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-05060a?style=for-the-badge&logo=python&logoColor=22e5ff&labelColor=05060a" alt="Python"/>
-  <img src="https://img.shields.io/badge/Web_API-05060a?style=for-the-badge&labelColor=05060a&color=ff2bd6" alt="web"/>
-  <img src="https://img.shields.io/badge/AI_Chains-05060a?style=for-the-badge&labelColor=05060a&color=8b5cff" alt="ai"/>
+  <img src="https://img.shields.io/badge/Python-05080f?style=for-the-badge&logo=python&logoColor=00d4ff&labelColor=05080f" alt="Python"/>
+  <img src="https://img.shields.io/badge/Web_API-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="web"/>
+  <img src="https://img.shields.io/badge/AI_Chains-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="ai"/>
   <br/>
-  <a href="https://github.com/aloc999/redgun"><img src="https://img.shields.io/badge/🎯_redgun-view_repo-05060a?style=for-the-badge&labelColor=05060a&color=ff2bd6" alt="redgun"/></a>
+  <a href="https://github.com/aloc999/redgun"><img src="https://img.shields.io/badge/🎯_redgun-view_repo-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="redgun"/></a>
 </p>
 
-**🧠 Xploit47** &nbsp;<img src="https://img.shields.io/badge/MCP_reasoning-05060a?style=flat-square&labelColor=05060a&color=22e5ff" alt="mcp"/> <img src="https://img.shields.io/badge/Beam_Search_+_MCTS-05060a?style=flat-square&labelColor=05060a&color=8b5cff" alt="search"/>
+**🧠 Xploit47** &nbsp;<img src="https://img.shields.io/badge/MCP_reasoning-05080f?style=flat-square&labelColor=05080f&color=00d4ff" alt="mcp"/> <img src="https://img.shields.io/badge/Beam_Search_+_MCTS-05080f?style=flat-square&labelColor=05080f&color=00c47a" alt="search"/>
 
 AI-powered pentest reasoning MCP — deterministic attack-path planning with explainable scoring, kill-chain phase, tool recommendation, and next-step hints.
 
 <p align="center">
-  <a href="https://github.com/aloc999/Xploit47"><img src="https://img.shields.io/badge/🧠_Xploit47-view_repo-05060a?style=for-the-badge&labelColor=05060a&color=22e5ff" alt="Xploit47"/></a>
+  <a href="https://github.com/aloc999/Xploit47"><img src="https://img.shields.io/badge/🧠_Xploit47-view_repo-05080f?style=for-the-badge&labelColor=05080f&color=00d4ff" alt="Xploit47"/></a>
 </p>
 
 **⚡ ZER0CODE + 🔗 CODA + 🐎 CavalryHive**
@@ -208,9 +208,9 @@ AI-powered pentest reasoning MCP — deterministic attack-path planning with exp
 - [CavalryHive](https://github.com/aloc999/CavalryHive) — autonomous assessment — adaptive mutation chains, differential-verified findings
 
 <p align="center">
-  <a href="https://github.com/aloc999/ZER0CODE"><img src="https://img.shields.io/badge/⚡_ZER0CODE-view_repo-05060a?style=for-the-badge&labelColor=05060a&color=8b5cff" alt="ZER0CODE"/></a>
-  <a href="https://github.com/aloc999/CODA"><img src="https://img.shields.io/badge/🔗_CODA-view_repo-05060a?style=for-the-badge&labelColor=05060a&color=2bff88" alt="CODA"/></a>
-  <a href="https://github.com/aloc999/CavalryHive"><img src="https://img.shields.io/badge/🐎_CavalryHive-view_repo-05060a?style=for-the-badge&labelColor=05060a&color=ffbf3f" alt="CavalryHive"/></a>
+  <a href="https://github.com/aloc999/ZER0CODE"><img src="https://img.shields.io/badge/⚡_ZER0CODE-view_repo-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="ZER0CODE"/></a>
+  <a href="https://github.com/aloc999/CODA"><img src="https://img.shields.io/badge/🔗_CODA-view_repo-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="CODA"/></a>
+  <a href="https://github.com/aloc999/CavalryHive"><img src="https://img.shields.io/badge/🐎_CavalryHive-view_repo-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="CavalryHive"/></a>
 </p>
 
 ---
@@ -238,11 +238,11 @@ C/C++/Python video + network engineering: zero-copy pipelines, GStreamer RTSP, V
 **🖥️ Live CV** — this dossier lives on the web too → **[aloc999.github.io](https://aloc999.github.io/)** ([`aloc999.github.io`](https://github.com/aloc999/aloc999.github.io))
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-05060a?style=flat-square&logo=nextdotjs&logoColor=dff7ff&labelColor=05060a" alt="Next"/>
-  <img src="https://img.shields.io/badge/Prisma-05060a?style=flat-square&logo=prisma&logoColor=dff7ff&labelColor=05060a" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-05060a?style=flat-square&logo=postgresql&logoColor=22e5ff&labelColor=05060a" alt="PG"/>
-  <img src="https://img.shields.io/badge/Playwright-05060a?style=flat-square&labelColor=05060a&color=2bff88" alt="PW"/>
-  <img src="https://img.shields.io/badge/Docker-05060a?style=flat-square&labelColor=05060a&color=22e5ff" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Next.js-05080f?style=flat-square&logo=nextdotjs&logoColor=e8eef7&labelColor=05080f" alt="Next"/>
+  <img src="https://img.shields.io/badge/Prisma-05080f?style=flat-square&logo=prisma&logoColor=e8eef7&labelColor=05080f" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-05080f?style=flat-square&logo=postgresql&logoColor=00d4ff&labelColor=05080f" alt="PG"/>
+  <img src="https://img.shields.io/badge/Playwright-05080f?style=flat-square&labelColor=05080f&color=00ff9c" alt="PW"/>
+  <img src="https://img.shields.io/badge/Docker-05080f?style=flat-square&labelColor=05080f&color=00d4ff" alt="Docker"/>
 </p>
 
 ---
@@ -327,16 +327,16 @@ C/C++/Python video + network engineering: zero-copy pipelines, GStreamer RTSP, V
 ## 📊 STATS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aloc999&show_icons=true&hide_border=true&bg_color=05060a&title_color=22e5ff&icon_color=ff2bd6&text_color=dff7ff&ring_color=8b5cff" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloc999&layout=compact&hide_border=true&langs_count=8&bg_color=05060a&title_color=22e5ff&text_color=dff7ff&icon_color=ff2bd6" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aloc999&show_icons=true&hide_border=true&bg_color=05080f&title_color=00d4ff&icon_color=00ff9c&text_color=e8eef7&ring_color=00c47a" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloc999&layout=compact&hide_border=true&langs_count=8&bg_color=05080f&title_color=00d4ff&text_color=e8eef7&icon_color=00ff9c" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aloc999&hide_border=true&background=05060a&stroke=8b5cff&ring=22e5ff&fire=ff2bd6&currStreakLabel=22e5ff&sideLabels=6b8299&dates=38516b&currStreakNum=dff7ff&sideNums=dff7ff" alt="Streak"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aloc999&hide_border=true&background=05080f&stroke=00c47a&ring=00d4ff&fire=00ff9c&currStreakLabel=00d4ff&sideLabels=6b8299&dates=51637a&currStreakNum=e8eef7&sideNums=e8eef7" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aloc999&style=for-the-badge&color=22e5ff&label=DOSSIER+VIEWS" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=aloc999&style=for-the-badge&color=00d4ff&label=DOSSIER+VIEWS" alt="profile views"/>
 </p>
 
 ---
@@ -344,10 +344,10 @@ C/C++/Python video + network engineering: zero-copy pipelines, GStreamer RTSP, V
 ## 📮 CONTACT
 
 <p align="center">
-  <a href="https://github.com/aloc999"><img src="https://img.shields.io/badge/GitHub-@aloc999-05060a?style=for-the-badge&logo=github&logoColor=22e5ff&labelColor=05060a" alt="github"/></a>
-  <a href="https://gitlab.com/aloc999"><img src="https://img.shields.io/badge/GitLab-@aloc999-05060a?style=for-the-badge&logo=gitlab&logoColor=ff6b4a&labelColor=05060a" alt="gitlab"/></a>
-  <a href="https://linkedin.com/in/hashemirafsanjani"><img src="https://img.shields.io/badge/LinkedIn-hashemirafsanjani-05060a?style=for-the-badge&logo=linkedin&logoColor=22e5ff&labelColor=05060a" alt="linkedin"/></a>
-  <a href="mailto:hashemi.official@gmail.com"><img src="https://img.shields.io/badge/Email-hashemi.official%40gmail.com-05060a?style=for-the-badge&logo=maildotru&logoColor=ff2bd6&labelColor=05060a" alt="email"/></a>
+  <a href="https://github.com/aloc999"><img src="https://img.shields.io/badge/GitHub-@aloc999-05080f?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=05080f" alt="github"/></a>
+  <a href="https://gitlab.com/aloc999"><img src="https://img.shields.io/badge/GitLab-@aloc999-05080f?style=for-the-badge&logo=gitlab&logoColor=00d4ff&labelColor=05080f" alt="gitlab"/></a>
+  <a href="https://linkedin.com/in/hashemirafsanjani"><img src="https://img.shields.io/badge/LinkedIn-hashemirafsanjani-05080f?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=05080f" alt="linkedin"/></a>
+  <a href="mailto:hashemi.official@gmail.com"><img src="https://img.shields.io/badge/Email-hashemi.official%40gmail.com-05080f?style=for-the-badge&logo=maildotru&logoColor=00ff9c&labelColor=05080f" alt="email"/></a>
 </p>
 
 <p align="center"><sub>Open to <strong>bug bounty collaboration</strong>, <strong>threat intel / SOC</strong> work and <strong>security tooling</strong> collabs — reach me on <a href="https://github.com/aloc999">GitHub</a> or by email. Kendal, Central Java, ID.</sub></p>
@@ -355,7 +355,7 @@ C/C++/Python video + network engineering: zero-copy pipelines, GStreamer RTSP, V
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%22security_first_·_intelligence_led_·_continuous_improvement%22-05060a?style=for-the-badge&labelColor=05060a&color=38516b" alt="signature quote"/>
+  <img src="https://img.shields.io/badge/%22security_first_·_intelligence_led_·_continuous_improvement%22-05080f?style=for-the-badge&labelColor=05080f&color=51637a" alt="signature quote"/>
 </p>
 
 <p align="center"><sub>— <i>aloc999</i> · <code>● SYSTEM ONLINE</code></sub></p>
