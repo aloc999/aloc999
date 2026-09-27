@@ -32,7 +32,7 @@
 ● SYSTEM ONLINE
 Software Research Engineer, Cybersecurity Researcher, and Bug Bounty Hunter (Intigriti, Bugcrowd)
 with hands-on banking IT Security Operations — 24/7 SOC monitoring, threat hunting, and CTI.
-Builds open-source offensive tooling (redgun, Xploit47, ZER0CODE, CODA) spanning web/API,
+Builds open-source offensive tooling (redgun, Xploit47, TruthZero, CODA) spanning web/API,
 cloud, Web3, mobile, and AI/LLM security. Blends Red Team depth with Blue Team rigor.
 Kendal, Central Java, ID — Indonesian · English
 ```
@@ -163,14 +163,14 @@ Kendal, Central Java, ID — Indonesian · English
 
 - 🛠️ [**redgun**](https://github.com/aloc999/redgun) — CLI web auditor — black/white-box, ~120 modules, AI attack chains
 - 🧠 [**Xploit47**](https://github.com/aloc999/Xploit47) — AI-powered pentest reasoning MCP — Beam Search + MCTS attack-path planning
-- ⚡ [**ZER0CODE**](https://github.com/aloc999/ZER0CODE) — AI red-team coding agent for offensive workflows
+- ⚡ [**TruthZero**](https://github.com/aloc999/TruthZero) — autonomous AI pentest swarm for offensive workflows
 - 🔗 [**CODA**](https://github.com/aloc999/CODA) — smart-contract audit arsenal — 26 tools, static analysis to formal verification
 - 🐎 [**CavalryHive**](https://github.com/aloc999/CavalryHive) — autonomous web-assessment toolkit — self-learning profiles, adaptive payload mutation, zero-FP design
 
 <p align="center">
   <img src="https://img.shields.io/badge/SHIPPED-redgun-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="redgun"/>
   <img src="https://img.shields.io/badge/SHIPPED-Xploit47-05080f?style=for-the-badge&labelColor=05080f&color=00d4ff" alt="Xploit47"/>
-  <img src="https://img.shields.io/badge/SHIPPED-ZER0CODE-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="ZER0CODE"/>
+  <img src="https://img.shields.io/badge/SHIPPED-TruthZero-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="TruthZero"/>
   <img src="https://img.shields.io/badge/SHIPPED-CODA-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="CODA"/>
   <img src="https://img.shields.io/badge/SHIPPED-CavalryHive-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="CavalryHive"/>
 </p>
@@ -201,14 +201,14 @@ AI-powered pentest reasoning MCP — deterministic attack-path planning with exp
   <a href="https://github.com/aloc999/Xploit47"><img src="https://img.shields.io/badge/🧠_Xploit47-view_repo-05080f?style=for-the-badge&labelColor=05080f&color=00d4ff" alt="Xploit47"/></a>
 </p>
 
-**⚡ ZER0CODE + 🔗 CODA + 🐎 CavalryHive**
+**⚡ TruthZero + 🔗 CODA + 🐎 CavalryHive**
 
-- [ZER0CODE](https://github.com/aloc999/ZER0CODE) — AI red-team coding agent for offensive workflows (authorized only)
+- [TruthZero](https://github.com/aloc999/TruthZero) — autonomous AI pentest swarm for offensive workflows (authorized only)
 - [CODA](https://github.com/aloc999/CODA) — 26-tool smart-contract audit arsenal — static analysis → formal verification
 - [CavalryHive](https://github.com/aloc999/CavalryHive) — autonomous assessment — adaptive mutation chains, differential-verified findings
 
 <p align="center">
-  <a href="https://github.com/aloc999/ZER0CODE"><img src="https://img.shields.io/badge/⚡_ZER0CODE-view_repo-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="ZER0CODE"/></a>
+  <a href="https://github.com/aloc999/TruthZero"><img src="https://img.shields.io/badge/⚡_TruthZero-view_repo-05080f?style=for-the-badge&labelColor=05080f&color=00c47a" alt="TruthZero"/></a>
   <a href="https://github.com/aloc999/CODA"><img src="https://img.shields.io/badge/🔗_CODA-view_repo-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="CODA"/></a>
   <a href="https://github.com/aloc999/CavalryHive"><img src="https://img.shields.io/badge/🐎_CavalryHive-view_repo-05080f?style=for-the-badge&labelColor=05080f&color=00ff9c" alt="CavalryHive"/></a>
 </p>
